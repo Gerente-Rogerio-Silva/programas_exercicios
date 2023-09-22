@@ -31,22 +31,4 @@ you would like to generate the documentation, just use, say:
     $ pdflatex algorithms.dtx
 
 
-## Development and Support
 
-The source code for the bundle is currently hosted in a `git` repository at
-<https://github.com/rbrito/algorithms>.
-
-The author welcomes any contribution and also tries to address any bugs
-or feature requests that may be filed on the issue tracker at
-<https://github.com/rbrito/algorithms/issues>.
-
-
-## The License
-
-The algorithms bundle is (currently) licensed under the Lesser GPL
-license, which is a Free Software license. It may, in the future, be
-released under the standard LaTeX license (the LaTeX Project Public
-License).
-
-
- -- Rogério Brito <rbrito@ime.usp.br>  Wed, 08 Nov 2017 05:23:56 -0200
