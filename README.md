@@ -1,45 +1,29 @@
-<p align="center"><img width="128" height="128" src="https://i.imgur.com/uVpmR8l.png"></p>
-<h1 align="center">Buster: Captcha Solver for Humans</h1>
+<img src="https://arturkilldragon.files.wordpress.com/2019/06/omnistack-wallpaper-1920x1080.png" align="center"></img>
+<h1 align="center">Semana Omnistack 10</h1>
+<p align="center">Projeto <strong>DevRadar</strong> desenvolvido durante a Omnistack da Rocketseat</p>
 
 <p align="center">
-  </br></br>
-  <a href="https://chrome.google.com/webstore/detail/buster-captcha-solver-for/mpbjkejclgfgadiemmefgebjfooflfhl">
-    <img height="58" src="https://i.imgur.com/K9Yh8G9.png" alt="Chrome Web Store"></a>
-  <a href="https://addons.mozilla.org/en-US/firefox/addon/buster-captcha-solver/">
-    <img height="58" src="https://i.imgur.com/2jJOtTI.png" alt="Firefox add-ons"></a>
-  <a href="https://microsoftedge.microsoft.com/addons/detail/buster-captcha-solver-fo/admkpobhocmdideidcndkfaeffadipkc">
-    <img height="58" src="https://i.imgur.com/es2YFRA.png" alt="Microsoft Store"></a>
-  <a href="https://addons.opera.com/en/extensions/details/buster-captcha-solver-for-humans/">
-    <img height="58" src="https://i.imgur.com/IYYsrwg.png" alt="Opera add-ons"></a>
-  </br></br>
+  <a aria-label="Versão do Node" href="https://github.com/nodejs/node/blob/master/doc/changelogs/CHANGELOG_V12.md#12.14.1">
+    <img src="https://img.shields.io/badge/node.js@lts-12.14.1-informational?logo=Node.JS"></img>
+  </a>
+  <a aria-label="Versão do React" href="https://github.com/facebook/react/blob/master/CHANGELOG.md#16120-november-14-2019">
+    <img src="https://img.shields.io/badge/react-16.12.0-informational?logo=react"></img>
+  </a>
+  <a aria-label="Versão do Expo" href="https://www.npmjs.com/package/expo-cli/v/3.11.5">
+    <img src="https://img.shields.io/badge/expo--CLI-3.11.5-informational?logo=expo"></img>
+  </a>
+  <a aria-label="Desafios" href="DESAFIOS.md">
+  	<img src="https://img.shields.io/badge/desafios-OK-blueviolet"></img>
+  </a>
+  <a aria-label="Completo" href="https://rocketseat.com.br/week-10/aulas#4">
+    <img src="https://img.shields.io/badge/OmniStack-done-green?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
+  </a>
 </p>
 
-
-## Description
-
-Buster is a browser extension which helps you to solve difficult captchas
-by completing reCAPTCHA audio challenges using speech recognition.
-Challenges are solved by clicking on the extension button at the bottom
-of the reCAPTCHA widget.
-
-> Obviously, this blue part here is the land.
->
-> — <cite>Byron "Buster" Bluth, reading a map</cite>
-
-## Motivation
-
-reCAPTCHA challenges remain a considerable burden on the web,
-delaying and often blocking our access to services and information
-depending on our physical and cognitive abilities, our social
-and cultural background, and the devices or networks we connect from.
-
-The difficulty of captchas can be so out of balance,
-that sometimes they seem friendlier to bots than they are to humans.
-
-The goal of this project is to improve our experience on the web,
-by giving us easy access to solutions utilized by automated systems.
+## 💻 Projeto
+O DevRadar é um projeto que visa conectar desenvolvedores próximos a você que trabalham com as mesmas tecnologias.
 
 
+## 📝 Licença
 
-
-
+[MIT](./LICENSE) &copy; [Rocketseat](https://rocketseat.com.br/)
