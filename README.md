@@ -172,7 +172,3 @@ It's possible to add a custom logger to replace the default behavior. You can ad
 log_file = File.open("./protection.log", "w")
 HTTP::Protection::Logger.instance = Logger.new(log_file)
 ```
-
-## Contributors
-
-- [rogeriozambon](https://github.com/rogeriozambon) Rogério Zambon - creator, maintainer
