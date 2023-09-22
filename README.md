@@ -1,34 +1,70 @@
-# The algorithms set of packages for LaTeX
+<p align="center"><img width="128" height="128" src="https://i.imgur.com/uVpmR8l.png"></p>
+<h1 align="center">Buster: Captcha Solver for Humans</h1>
 
-The `algorithms` bundle provides two environments, `algorithmic` and
-`algorithm`, designed to typeset pseudo-code with LaTeX.
+<p align="center">
+  </br></br>
+  <a href="https://chrome.google.com/webstore/detail/buster-captcha-solver-for/mpbjkejclgfgadiemmefgebjfooflfhl">
+    <img height="58" src="https://i.imgur.com/K9Yh8G9.png" alt="Chrome Web Store"></a>
+  <a href="https://addons.mozilla.org/en-US/firefox/addon/buster-captcha-solver/">
+    <img height="58" src="https://i.imgur.com/2jJOtTI.png" alt="Firefox add-ons"></a>
+  <a href="https://microsoftedge.microsoft.com/addons/detail/buster-captcha-solver-fo/admkpobhocmdideidcndkfaeffadipkc">
+    <img height="58" src="https://i.imgur.com/es2YFRA.png" alt="Microsoft Store"></a>
+  <a href="https://addons.opera.com/en/extensions/details/buster-captcha-solver-for-humans/">
+    <img height="58" src="https://i.imgur.com/IYYsrwg.png" alt="Opera add-ons"></a>
+  </br></br>
+</p>
 
-The `algorithmic` package provides an environment for the description of
-algorithms, step-by-step in pseudo-code, while the `algorithm`
-environment provides a `float` wrapper for algorithms to "feature" them
-in the text.
+## Supporting the Project
 
-Even though the primary intention is to use them together, it is
-possible to just use one of them at the option of the user.  The reason
-for two environments being provided is to allow the user maximum
-flexibility.
+The continued development of Buster is made possible
+thanks to the support of awesome backers. If you'd like to join them,
+please consider contributing with
+[Patreon](https://armin.dev/go/patreon?pr=buster&src=repo),
+[PayPal](https://armin.dev/go/paypal?pr=buster&src=repo) or
+[Bitcoin](https://armin.dev/go/bitcoin?pr=buster&src=repo).
 
+## Description
 
-## Installation
+Buster is a browser extension which helps you to solve difficult captchas
+by completing reCAPTCHA audio challenges using speech recognition.
+Challenges are solved by clicking on the extension button at the bottom
+of the reCAPTCHA widget.
 
-If you are not using a distribution like TeX Live or MikTeX, you can
-easily install the package by running (on a command line; the $ signals
-denotes the prompt and should not be typed):
+> Obviously, this blue part here is the land.
+>
+> — <cite>Byron "Buster" Bluth, reading a map</cite>
 
-    $ tex algorithms.dtx
+## Motivation
 
-This should generate, among others, the files `algorithm.sty` and
-`algorithmic.sty`. To use them, just copy them to your texmf tree (or
-the local directory where the document you want to typeset resides).  If
-you would like to generate the documentation, just use, say:
+reCAPTCHA challenges remain a considerable burden on the web,
+delaying and often blocking our access to services and information
+depending on our physical and cognitive abilities, our social
+and cultural background, and the devices or networks we connect from.
 
-    $ pdflatex algorithms.dtx
-    $ pdflatex algorithms.dtx
+The difficulty of captchas can be so out of balance,
+that sometimes they seem friendlier to bots than they are to humans.
 
+The goal of this project is to improve our experience on the web,
+by giving us easy access to solutions utilized by automated systems.
 
+## Client App
 
+The client app enables you to simulate user interactions and improves
+the success rate of the extension. Follow the instructions
+from the extension's options to download and install the client app
+on Windows, Linux and macOS, or get the app
+from [this](https://github.com/dessant/buster-client#readme) repository.
+
+## Screenshots
+
+<p>
+  <img width="380" src="https://i.imgur.com/hTqeN4z.png">
+  <img width="380" src="https://i.imgur.com/o0qqDd5.png">
+</p>
+
+## License
+
+Copyright (c) 2018-2023 Armin Sebastian
+
+This software is released under the terms of the GNU General Public License v3.0.
+See the [LICENSE](LICENSE) file for further information.
