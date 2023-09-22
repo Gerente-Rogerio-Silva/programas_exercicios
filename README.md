@@ -14,14 +14,6 @@
   </br></br>
 </p>
 
-## Supporting the Project
-
-The continued development of Buster is made possible
-thanks to the support of awesome backers. If you'd like to join them,
-please consider contributing with
-[Patreon](https://armin.dev/go/patreon?pr=buster&src=repo),
-[PayPal](https://armin.dev/go/paypal?pr=buster&src=repo) or
-[Bitcoin](https://armin.dev/go/bitcoin?pr=buster&src=repo).
 
 ## Description
 
@@ -47,24 +39,7 @@ that sometimes they seem friendlier to bots than they are to humans.
 The goal of this project is to improve our experience on the web,
 by giving us easy access to solutions utilized by automated systems.
 
-## Client App
 
-The client app enables you to simulate user interactions and improves
-the success rate of the extension. Follow the instructions
-from the extension's options to download and install the client app
-on Windows, Linux and macOS, or get the app
-from [this](https://github.com/dessant/buster-client#readme) repository.
 
-## Screenshots
 
-<p>
-  <img width="380" src="https://i.imgur.com/hTqeN4z.png">
-  <img width="380" src="https://i.imgur.com/o0qqDd5.png">
-</p>
 
-## License
-
-Copyright (c) 2018-2023 Armin Sebastian
-
-This software is released under the terms of the GNU General Public License v3.0.
-See the [LICENSE](LICENSE) file for further information.
